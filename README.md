@@ -18,5 +18,5 @@ Pendaftaran melalui aplikasi akan di arahkan chat WA ke Admin support untuk mend
 
 ## Batas Komisi
 
-Komisi di aplikasi ini sementara belum ada batasannya, karena ownernya lagi bermurah hati agar sales lapangan atau sales canvas
+Komisi di aplikasi ini dapat terus bertambah, karena ownernya lagi bermurah hati agar sales lapangan atau sales canvas
 dapat mendapatkan pendapatan tambahan di sela kegiatannya.
