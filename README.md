@@ -7,7 +7,7 @@ Aplikasi untuk para sales lapangan atau sales canvas untuk mendapatkan pendapata
 
 ## Cara Install
 
-Silahkan di download file release terbaru, kemudian install di HP Android.
+Silahkan di download <a href='https://github.com/edomomodo/pejuangkomisiupdater/releases'> file apk release terbaru </a>, kemudian install di HP Android.
 
 Jika terdapat peringatan 'Unknown sources' atau 'Sumber tidak diketahui'
 maka silahkan membuka menu Settings > Apps & notifications > Advanced > Special app access > Install unknown apps.
